@@ -18,3 +18,6 @@
 
 5.摩乐乐社工库
 ### 智网综合社工库 [@twshegong_huanqiucha_bot](https://t.me/twshegong_huanqiucha_bot?start=qr4mnWQdL2Wx)
+
+# 猪八戒查档 
+[@Zonesgk_bottbot](https://t.me/Zonesgk_bottbot?start=NTgzNzg1NTEy)
